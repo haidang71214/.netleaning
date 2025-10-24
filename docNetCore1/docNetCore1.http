@@ -1,0 +1,6 @@
+@docNetCore1_HostAddress = http://localhost:5290
+
+GET {{docNetCore1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
